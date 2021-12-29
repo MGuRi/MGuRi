@@ -1,6 +1,6 @@
-## 안재현
+# 안재현
 
-### Work Hard
+### Work Hard !!!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=MGuRi&theme=discord&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
