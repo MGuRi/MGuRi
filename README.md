@@ -1,6 +1,6 @@
-# 안재현
+<div >
+  <h3><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> WELCOME  </h3>
+  
+</div>
 
-### Work Hard !!!
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGuRi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
