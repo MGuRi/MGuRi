@@ -24,12 +24,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #
-
+<!--
 <h3> What I Want To Learn </h3>
 
 * ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 * ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 * ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 * ... **more**
-
+!-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MGuRi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
