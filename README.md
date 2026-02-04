@@ -4,5 +4,5 @@
 
  **Connect with me** <br>
 > [![Gmail Badge](https://img.shields.io/badge/-mouphero411@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mouphero411@gmail.com)](mailto:mouphero411@gmail.com) <br>
-> [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://jaehyunan.notion.site/2f4a92946d8b8044a669e8c79785f23c?source=copy_link)]([https://amethyst-text-b1b.notion.site/WELCOME-84582676509944bf9b63b7e3d582641f](https://jaehyunan.notion.site/2f4a92946d8b8044a669e8c79785f23c?source=copy_link)) <br> 
+> [![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://jaehyunan.notion.site/2f4a92946d8b8044a669e8c79785f23c?source=copy_link)](https://jaehyunan.notion.site/2f4a92946d8b8044a669e8c79785f23c?source=copy_link) <br> 
 
